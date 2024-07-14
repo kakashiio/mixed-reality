@@ -12,6 +12,6 @@ public class PassthroughPlaneScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        // check if press key A
     }
 }
